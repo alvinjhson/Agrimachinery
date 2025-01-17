@@ -1,0 +1,14 @@
+
+{
+    "name": "agrimachineryapi",
+    "version": "1.0.0",
+    "description": "A serverless project for managing agricultural machinery services",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
