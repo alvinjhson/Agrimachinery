@@ -20,9 +20,9 @@ build:
 
 
 functions:
-  signUp:
-    handler: functions/signup/index.handler
+  machinery:
+    handler: machinery/index.handler
     events:
       - httpApi:
-          path: /user/signup
-          method: POST
+          path: /machinery
+          method: GET
