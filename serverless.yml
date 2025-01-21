@@ -9,7 +9,17 @@ provider:
   profile: test
   region: eu-north-1
   iam:
-    role: arn:aws:iam::225989356862:role/lectures-cloud 
+    role: arn:aws:iam::225989356862:role/lectures-cloud
+  httpApi:
+    cors:
+      allowedOrigins:
+        - http://localhost:5173 
+      allowedMethods:
+        - OPTIONS
+        - GET
+      allowedHeaders:
+        - Content-Type
+      allowCredentials: false
 
 package:
   individually: true  
@@ -17,7 +27,6 @@ package:
 build:
   esbuild:
     minify: true  
-
 
 functions:
   machinery:
