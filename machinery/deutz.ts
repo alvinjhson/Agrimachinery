@@ -57,7 +57,77 @@ export const deutzTractors: Tractor[] = [
     //   transmission: "Continuously Variable",
     //   weight: 12000, 
     },
-  ];
+    {
+      id: 7,
+      name: "Deutz-Fahr 7250 TTV HD",
+      model: "7250 TTV HD",
+    },
+    {
+      id: 8,
+      name: "Deutz-Fahr 6215 RCShift",
+      model: "6215 RCShift",
+    },
+    {
+      id: 9,
+      name: "Deutz-Fahr 5090.4 D Keyline",
+      model: "5090.4 D Keyline",
+    },
+    {
+      id: 10,
+      name: "Deutz-Fahr 5100 G",
+      model: "5100 G",
+    },
+    {
+      id: 11,
+      name: "Deutz-Fahr 6165 TTV",
+      model: "6165 TTV",
+    },
+    {
+      id: 12,
+      name: "Deutz-Fahr 5130 TTV",
+      model: "5130 TTV",
+    },
+    {
+      id: 13,
+      name: "Deutz-Fahr Agrotron 6205 TTV",
+      model: "6205 TTV",
+    },
+    {
+      id: 14,
+      name: "Deutz-Fahr 5080 DF Ecoline",
+      model: "5080 DF Ecoline",
+    },
+    {
+      id: 15,
+      name: "Deutz-Fahr 4065 E",
+      model: "4065 E",
+    },
+    {
+      id: 16,
+      name: "Deutz-Fahr 4080E",
+      model: "4080E",
+    },
+    {
+      id: 17,
+      name: "Deutz-Fahr 7250 Warrior",
+      model: "7250 Warrior",
+    },
+    {
+      id: 18,
+      name: "Deutz-Fahr 9340 TTV HD",
+      model: "9340 TTV HD",
+    },
+    {
+      id: 19,
+      name: "Deutz-Fahr 5095 DF",
+      model: "5095 DF",
+    },
+    {
+      id: 20,
+      name: "Deutz-Fahr 5125 G DT",
+      model: "5125 G DT",
+    }
+];
   
 
   
