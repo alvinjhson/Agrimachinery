@@ -126,7 +126,17 @@ export const deutzTractors: Tractor[] = [
       id: 20,
       name: "Deutz-Fahr 5125 G DT",
       model: "5125 G DT",
-    }
+    },
+    { id: 21, name: "Deutz-Fahr 4080 Keyline", model: "4080 Keyline" },
+    { id: 22, name: "Deutz-Fahr 5105 G", model: "5105 G" },
+    { id: 23, name: "Deutz-Fahr 6135 CShift", model: "6135 CShift" },
+    { id: 24, name: "Deutz-Fahr 5090 G DT", model: "5090 G DT" },
+    { id: 25, name: "Deutz-Fahr 7250 TTV Agrotron", model: "7250 TTV Agrotron" },
+    { id: 26, name: "Deutz-Fahr 5115 DF", model: "5115 DF" },
+    { id: 27, name: "Deutz-Fahr 6185 TTV", model: "6185 TTV" },
+    { id: 28, name: "Deutz-Fahr 6120 CShift", model: "6120 CShift" },
+    { id: 29, name: "Deutz-Fahr 5095 D GS", model: "5095 D GS" },
+    { id: 30, name: "Deutz-Fahr 9340 Warrior", model: "9340 Warrior" }
 ];
   
 
