@@ -13,49 +13,31 @@ export const deutzTractors: Tractor[] = [
       id: 1,
       name: "Deutz-Fahr 5115 G",
       model: "5115 G",
-    //   horsepower: 116,
-    //   transmission: "24/24 Powershift",
-    //   weight: 4800, 
     },
     {
       id: 2,
       name: "Deutz-Fahr 6145 TTV",
       model: "6145 TTV",
-    //   horsepower: 145,
-    //   transmission: "Continuously Variable",
-    //   weight: 5400, 
     },
     {
       id: 3,
       name: "Deutz-Fahr Agrotron 7250 TTV",
       model: "7250 TTV",
-    //   horsepower: 246,
-    //   transmission: "Continuously Variable",
-    //   weight: 9700, 
     },
     {
       id: 4,
       name: "Deutz-Fahr Agrolux 410",
       model: "Agrolux 410",
-    //   horsepower: 85,
-    //   transmission: "12/12 Synchro",
-    //   weight: 3300,
     },
     {
       id: 5,
       name: "Deutz-Fahr 5080 D",
       model: "5080 D",
-    //   horsepower: 75,
-    //   transmission: "15/15 Synchro",
-    //   weight: 2800, 
     },
     {
       id: 6,
       name: "Deutz-Fahr 9340 TTV Warrior",
       model: "9340 TTV Warrior",
-    //   horsepower: 336,
-    //   transmission: "Continuously Variable",
-    //   weight: 12000, 
     },
     {
       id: 7,
@@ -127,17 +109,58 @@ export const deutzTractors: Tractor[] = [
       name: "Deutz-Fahr 5125 G DT",
       model: "5125 G DT",
     },
-    { id: 21, name: "Deutz-Fahr 4080 Keyline", model: "4080 Keyline" },
-    { id: 22, name: "Deutz-Fahr 5105 G", model: "5105 G" },
-    { id: 23, name: "Deutz-Fahr 6135 CShift", model: "6135 CShift" },
-    { id: 24, name: "Deutz-Fahr 5090 G DT", model: "5090 G DT" },
-    { id: 25, name: "Deutz-Fahr 7250 TTV Agrotron", model: "7250 TTV Agrotron" },
-    { id: 26, name: "Deutz-Fahr 5115 DF", model: "5115 DF" },
-    { id: 27, name: "Deutz-Fahr 6185 TTV", model: "6185 TTV" },
-    { id: 28, name: "Deutz-Fahr 6120 CShift", model: "6120 CShift" },
-    { id: 29, name: "Deutz-Fahr 5095 D GS", model: "5095 D GS" },
-    { id: 30, name: "Deutz-Fahr 9340 Warrior", model: "9340 Warrior" }
-];
+    {
+      id: 21,
+      name: "Deutz-Fahr 4080 Keyline",
+      model: "4080 Keyline",
+    },
+    {
+      id: 22,
+      name: "Deutz-Fahr 5105 G",
+      model: "5105 G",
+    },
+    {
+      id: 23,
+      name: "Deutz-Fahr 6135 CShift",
+      model: "6135 CShift",
+    },
+    {
+      id: 24,
+      name: "Deutz-Fahr 5090 G DT",
+      model: "5090 G DT",
+    },
+    {
+      id: 25,
+      name: "Deutz-Fahr 7250 TTV Agrotron",
+      model: "7250 TTV Agrotron",
+    },
+    {
+      id: 26,
+      name: "Deutz-Fahr 5115 DF",
+      model: "5115 DF",
+    },
+    {
+      id: 27,
+      name: "Deutz-Fahr 6185 TTV",
+      model: "6185 TTV",
+    },
+    {
+      id: 28,
+      name: "Deutz-Fahr 6120 CShift",
+      model: "6120 CShift",
+    },
+    {
+      id: 29,
+      name: "Deutz-Fahr 5095 D GS",
+      model: "5095 D GS",
+    },
+    {
+      id: 30,
+      name: "Deutz-Fahr 9340 Warrior",
+      model: "9340 Warrior",
+    },
+  ];
+  
   
 
   
